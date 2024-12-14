@@ -9,13 +9,5 @@ JavaScript: Para a lógica de programação e interatividade.
 Teclas Interativas: O usuário pode tocar as notas clicando nas teclas ou usando o teclado do computador.
 Controle de Volume: Ajuste o volume do som com um controle deslizante.
 Exibição de Notas: As notas tocadas são exibidas em tempo real.
-🚀 Como Jogar
-
-Clone este repositório para sua máquina local usando o comando:
-bash git clone https://github.com/debrulima/piano-simulator.git
-
-Abra o arquivo index.html no seu navegador web.
-
-Clique nas teclas do piano ou pressione as teclas correspondentes no teclado do computador para tocar as notas.
 
 
