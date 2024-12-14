@@ -18,4 +18,4 @@ Abra o arquivo index.html no seu navegador web.
 
 Clique nas teclas do piano ou pressione as teclas correspondentes no teclado do computador para tocar as notas.
 
-💻 Contribuições
+
